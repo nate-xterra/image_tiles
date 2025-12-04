@@ -14,6 +14,9 @@ Features:
   satellites.
 - Support for multichannel TIFF, JP2, and other less common file formats.
 
+## Quickstart
+Run `uvx image_tiles /path/to/folder`
+
 ## Installation
 
 ```
